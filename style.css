@@ -1,0 +1,72 @@
+
+
+  .hero{
+    background:
+      linear-gradient(
+        rgba(85, 25, 128, 0.7),
+        rgba(85, 25, 128, 0.7)
+      ),
+      /* bottom, image */
+      url(img/derby.jpg);
+      height: 825px;
+      width: auto;
+
+      background-repeat: no-repeat;
+  }
+
+.header{
+text-align: right;
+color: white;
+padding-right: 25px;
+position: absolute;
+height: 100%;
+width: 100%;
+top: 100px;
+
+}
+
+
+.link{
+  color: white;
+  font-size: 18px;
+}
+
+
+
+/* about me page */
+.about-me{
+  background-color: #003B6F;
+  color: white;
+}
+
+.spacing{
+  margin-left: 30px;
+  margin-right: 30px;
+  padding-bottom: 30px;
+}
+ .up{
+   color: white;
+ }
+
+ .row-me{
+   margin-bottom: 30px;
+ }
+ /* ends about me page */
+
+
+
+/* my work */
+  .work{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+  }
+/* footer for all pages */
+ .foot{
+   background-color: black;
+   color: white;
+   padding-top: 30px;
+   padding-bottom: 30px;
+   text-align: center;
+
+ }
