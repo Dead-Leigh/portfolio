@@ -74,7 +74,8 @@ top: 100px;
 @media screen and (max-width: 500px
   )
   {
-    img {
+    img .hero{
       width: 200px;
+
     }
   }
