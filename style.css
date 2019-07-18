@@ -50,6 +50,7 @@ top: 100px;
 
  .row-me{
    margin-bottom: 30px;
+
  }
  /* ends about me page */
 
@@ -63,15 +64,16 @@ top: 100px;
   }
 /* footer for all pages */
  .foot{
-   background-color: black;
    color: white;
    padding-top: 30px;
    padding-bottom: 30px;
    text-align: center;
-
+   background-image: linear-gradient(black, gray);
  }
 
-@media screen and (max-width: 500px
+
+
+ @media screen and (max-width: 500px
   )
   {
     img .hero{
