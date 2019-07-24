@@ -15,13 +15,13 @@
   }
 
 .header{
-text-align: right;
-color: white;
-padding-right: 25px;
-position: absolute;
-height: 100%;
-width: 100%;
-top: 100px;
+  text-align: right;
+  color: white;
+  padding-right: 25px;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 100px;
 
 }
 
@@ -63,6 +63,7 @@ top: 100px;
     text-align: center;
   }
 /* footer for all pages */
+
  .foot{
    color: white;
    padding-top: 30px;
@@ -70,7 +71,6 @@ top: 100px;
    text-align: center;
    background-image: linear-gradient(black, gray);
  }
-
 
 
  @media screen and (max-width: 500px
