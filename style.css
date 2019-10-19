@@ -17,6 +17,7 @@
 .hero{
   object-fit: fill;
 }
+
 .header{
   text-align: right;
   color: white;
@@ -40,6 +41,7 @@
 .about-me{
   background-color: #003B6F;
   color: white;
+  padding-top: 30px;
 }
 
 .spacing{
