@@ -14,6 +14,9 @@
       background-repeat: no-repeat;
   }
 
+.hero{
+  object-fit: fill;
+}
 .header{
   text-align: right;
   color: white;
